@@ -1,0 +1,31 @@
+body {
+	font-family: lato;
+	color: rgba (0,0,0,.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top:15%;
+	max-width: 50rem;
+	margin:auto;
+	background: linear-gradient(to right, #bbbbbb, #ffffff);
+}
+h1{
+	font: 600 3.5em 'lato';
+	color: rgba (0,0,0,.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	width: 100%;
+}
+h3{
+	font: 900 1em 'lato';
+	color: rgba (0,0,0,.5);
+	text-align: center;
+	text-transform: none;
+	letter-spacing: 0.01em;
+}
+button{
+	height: 25px;
+	background-color: #ffffff;
+	
+}
